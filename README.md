@@ -1,0 +1,2 @@
+# snake
+only use javascript
